@@ -1,0 +1,13 @@
+{
+  "name": "intialization",
+  "version": "1.0.0",
+  "description": "config 1.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "request": "2.01.0"
+  }
+}
